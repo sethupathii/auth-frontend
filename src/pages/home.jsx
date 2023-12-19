@@ -44,7 +44,7 @@ const Home = () => {
 
   const navigate = useNavigate();
   const Clicked = () => {
-    window.open('https://www.google.com/', '_blank');
+    window.open('https://main--jocular-clafoutis-6d5cc3.netlify.app/', '_blank');
   }
 
   return (
